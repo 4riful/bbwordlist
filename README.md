@@ -2,10 +2,7 @@
 
 Welcome to the **Awesome Hacker Wordlists** repository! This is your go-to collection of the best wordlists for pentesting and bug bounty hunting. Whether you're a seasoned pro or just starting out, these wordlists will help you uncover vulnerabilities and secure systems. Let's dive in! 🚀
 
-## 📑 Table of Contents
-1. [Wordlists Collection](#wordlists-collection)
-2. [Contribution](#contribution)
-3. [License](#license)
+
 
 ## 📜 Wordlists Collection
 
@@ -57,9 +54,7 @@ Want to help make this repository even better? 🌟 Contribute by submitting pul
 
 Your contributions make a difference! 💪
 
-## 📜 License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ---
 
